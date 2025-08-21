@@ -1,7 +1,7 @@
 # AI-CLASSIFIER
 Image Classifier (TensorFlow · MobileNetV2)
 
-Features:
+## Features:
 
 Classifies user-uploaded images using a pre-trained TensorFlow CNN (MobileNetV2) with multi-class recognition
 
@@ -13,7 +13,7 @@ Batch inference support (tested with 20+ images)
 
 NumPy preprocessing (resize, normalize)
 
-Frontend:
+## Frontend:
 
 HTML
 
@@ -21,7 +21,7 @@ CSS
 
 JavaScript
 
-Backend:
+## Backend:
 
 Python
 
